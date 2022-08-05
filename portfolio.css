@@ -1,0 +1,198 @@
+body{
+    background-color: #F2F4F7;
+    ;
+}
+header{
+    font-family: lato;
+    font-weight: 400;
+    background: hsl(216, 24%, 96%);
+    height: 82px;
+    color: #020F23;
+}
+header a{
+    text-decoration: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #020F23;
+}
+
+header a:hover{
+    color: #020F23;
+    text-decoration: underline;
+}
+.hire{
+   border: 1px solid #020F23;
+   border-radius: 0px;
+}
+.hire:hover{
+    background-color: #020F23;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+.contact{
+    background-color: #020F23;
+    color: #f7f7f7;
+   border-radius: 0px;
+}
+.contact:hover{
+    border: 1px solid #020F23;
+    background-color: #f7f7f7;
+    color: #020F23;
+    text-decoration: none;
+}
+.hello{
+    font-family: Nunito;
+    color: #020F23;
+    background-color:  #A4B8D7;
+    
+}
+.hello-p{
+    color: #E43A19;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 72px;
+    letter-spacing: 0em;
+    /* text-align: center; */
+}
+.hello h3{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+}
+.hello-hire{
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background-color: #020F23;
+color: #f7f7f7;
+border-radius: 0px;
+}
+.about h3{
+    font-family: 'Nunito';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+    color: #020F23;
+}
+.about p{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #393E46;
+}
+.services h3{
+    font-family: Nunito;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+color: #020F23;
+
+}
+.services p{
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #020F23;
+}
+.product, .interactive{
+font-family: Nunito;
+font-weight: 500;
+line-height: 24px;
+height: 185px;
+width: 280px;
+}
+.product{
+    background-color: #A4B8D7;
+}
+.interactive{
+    background-color:  #020F23;
+    
+}
+.product h3{
+    font-size: 24px;
+    color:#000 ;
+    text-align: center;
+}
+.product p{
+    color: #020F23;
+    font-size: 14px;
+    text-align: left;
+}
+.interactive h3{
+    font-size: 24px;
+    color:#A4B8D7 ;
+    text-align: center;
+}
+.interactive p{
+    color: #A4B8D7;
+    font-size: 14px;
+    text-align: left;
+
+}
+.skills h3{
+    font-family: Nunito;
+font-size: 36px;
+font-weight: 700;
+line-height: 49px;
+color: #020F23;
+}
+.skills p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #020F23;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social-images img{
+    margin-right: 10px;
+}
+.foot{
+    background-color:  #A4B8D7;
+    min-height: 84px;
+    
+}
+.tiles img{
+    height:30px;
+    margin-bottom: 15px;
+}
